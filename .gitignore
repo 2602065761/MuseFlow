@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Output (示例输出保留，实际运行输出不提交)
+output/*.md
+output/*.html
+!output/.gitkeep
+
+# Logs
+*.log
